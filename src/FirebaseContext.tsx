@@ -13,7 +13,7 @@ const firebaseConfig = {
   storageBucket: "metachat-51d6d.appspot.com",
   messagingSenderId: "931278166756",
   appId: "1:931278166756:web:4f97ddabd555a1693beaf1",
-  measurementId: "G-K89XLJW3NK"
+  measurementId: "G-K89XLJW3NK",
 } satisfies FirebaseOptions;
 
 // Initialize Firebase

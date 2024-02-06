@@ -1,7 +1,11 @@
 {
+  "scripts": {
+    "start":"concurrently \"parcel watch src/index.html\" \"firebase emulators:start\""
+  },
   "dependencies": {
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.18",
+    "concurrently": "^8.2.2",
     "firebase": "^10.8.0",
     "parcel": "^2.11.0",
     "postcss": "^8.4.34",
