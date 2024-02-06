@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module":"ESNext",
+        "noEmit": true,
+        "jsx":"react",
+        "allowJs": true,
+        "checkJs": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true
+    }
+}
